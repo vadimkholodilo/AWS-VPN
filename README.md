@@ -1,2 +1,2 @@
 # AWS-VPN
-Wireguard VPN on AWS with graphical interface
+Wireguard VPN on AWS with the graphical user interface
